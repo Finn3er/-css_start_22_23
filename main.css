@@ -1,0 +1,60 @@
+/******* Global Var, importen ********/
+* {
+
+}
+html,body {
+    margin-left: 0;
+}
+
+/**** Colors *****/
+.color1 {background-color: red;}
+.color2 {background-color: orange;}
+.color3 {background-color: darkorange;}
+
+/***** Standard sizes *****/
+.w10 {width: 10vw;}
+.w20 {width: 20vw;}
+.w30 {width: 30vw;}
+.w40 {width: 40vw;}
+.w50 {width: 50vw;}
+
+.h10 {height: 10vh;}
+.h20 {height: 20vh;}
+.h30 {height: 30vh;}
+.h40 {height: 40vh;}
+.h50 {height: 50vh;} 
+.h33 {height: calc(100vh / 3);}
+
+/****** Spacer *****/
+.spacer1 {margin-bottom: 1rem;}
+.spacer2 {margin-bottom: 2rem;}
+
+/**** Blue Block Task *****/
+.shadow1 {box-shadow: 5px 5px 20px 10px #565757;}
+.shadow2 {box-shadow: 5px 5px 20px 10px #56fafa;}
+
+
+/**** Blue Block Task *****/
+.bluebox {
+    background-color: rgb(21, 75, 183);
+    height: 50vw;
+    width: 50vh;
+}
+
+.box {
+    height: 20vw;
+    width: 20vh;
+}
+
+.retangle {
+    height: 20vw;
+    width: 60vh;
+}
+
+/**** Position *****/
+.absolute {position: absolute;}
+.relative {position: relative;}
+.child1 {
+    bottom: 0;
+    right: 0;
+}
